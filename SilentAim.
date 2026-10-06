@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yerba-cc/Voidfalls/refs/heads/main/SilentAim"))()
